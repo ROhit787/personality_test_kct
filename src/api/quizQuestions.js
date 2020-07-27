@@ -1,13 +1,11 @@
-// briggs: EI, SN, TF, JP
-// color: brown, green, blue, red
-// letter: a, b, c, d
+
 var quizQuestions = [
-  // question #1
+ 
   {
-    question: 'I am task oriented in order to achieve certain goals.',
+    question:  'You find it difficult to speak loudly',
     answers: [
       {
-        // briggs, color, letter
+       
         type: 'J,Brown,D',
         content: 'YEP! THAT IS ME!'
       },
@@ -21,12 +19,12 @@ var quizQuestions = [
       }
     ]
   },
-  // question #2
+  
   {
-    question: 'I get bored easily when disscussing abstract concepts.',
+    question: ' You value justice higher than mercy',
     answers: [
       {
-        // briggs, color, letter
+        
         type: 'N,Green,C',
         content: 'YEP! THAT IS ME!'
       },
@@ -40,9 +38,9 @@ var quizQuestions = [
       }
     ]
   },
-  // question #3
+ 
   {
-    question: 'I like to try things out myself.',
+    question: 'You are easily affected by strong emotions',
     answers: [
       {
         // briggs, color, letter
@@ -61,7 +59,7 @@ var quizQuestions = [
   },
   // question #4
   {
-    question: "I like to know where I'm going before I leave the house.",
+    question: 'It is easy for you to communicate in social situations',
     answers: [
       {
         // briggs, color, letter
@@ -80,7 +78,7 @@ var quizQuestions = [
   },
   // question #5
   {
-    question: 'I believe there is a logical explanation for everything.',
+    question: ' You find it difficult to talk about your feelings',
     answers: [
       {
         // briggs, color, letter
@@ -156,7 +154,7 @@ var quizQuestions = [
   },
   // question #9
   {
-    question: 'I always express concern for others when making decisions.',
+    question: ' You find it difficult to talk about your feelings',
     answers: [
       {
         // briggs, color, letter
@@ -707,7 +705,7 @@ var quizQuestions = [
   },
   // question #38
   {
-    question: 'I make decisions based on my emotions.',
+    question: ' After prolonged socializing you feel you need to get away and be alone.',
     answers: [
       {
         // briggs, color, letter
@@ -726,7 +724,7 @@ var quizQuestions = [
   },
   // question #39
   {
-    question: 'I need time alone to recharge.',
+    question: 'You trust reason rather than feelings',
     answers: [
       {
         // briggs, color, letter
@@ -745,7 +743,7 @@ var quizQuestions = [
   },
   // question #40
   {
-    question: 'I like to keep my room organized and clean.',
+    question: 'You trust reason rather than feelings',
     answers: [
       {
         // briggs, color, letter

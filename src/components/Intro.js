@@ -44,7 +44,7 @@ const Intro = ({ title, _onStartClick }) => {
         <div className="corner" />
         <div className="corner" />
         <h1>{title}</h1>
-        {/* TODO: WILL CHANGE THIS THING DOWN HERE */}
+        
         <ul className="list-group">
           <li className="list-group-item">Consits of 40 questions</li>
           <li className="list-group-item">Personality begins where comparison ends</li>
